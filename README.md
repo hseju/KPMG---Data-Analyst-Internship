@@ -2,6 +2,8 @@
 
 Welcome to KPMG Data analyst Virtual Internship Experience through [Forage](https://www.theforage.com/).
 
+The internship is divided in 3 main parts/tasks. 
+
 TASK - 1
 
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
@@ -12,9 +14,8 @@ However, in order to support the analysis, you speak to the Associate Director f
 
 The client provided KPMG with 3 datasets:
 
-Customer Demographic 
-Customer Addresses
-Transactions data in the past 3 months
-You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+1. Customer Demographic <br>
+2. Customer Addresses <br>
+3. Transactions data in the past 3 months <br>
 
 #### Task - Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
